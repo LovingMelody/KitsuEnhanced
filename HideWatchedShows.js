@@ -5,6 +5,7 @@
 // @description  Hide Anime you finished watching
 // @author       Fuzen-py
 // @match        https://kitsu.io/anime?*
+// @match        https://kitsu.io/anime
 // @home-url     https://github.com/Fuzen-py/KitsuEnhanced
 // @grant        none
 // ==/UserScript==
